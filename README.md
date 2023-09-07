@@ -13,6 +13,13 @@ The Management Board has asked a series of business questions and they expect da
 - Which movies contributed the most/least to revenue gain?
 - What was the average rental duration for all videos?
 
+## Dataset
+The Data set that contains information about Rockbuster’s film inventory, customers, and payments in a 
+PostgreSQL database.
+
+## Database ERD
+https://github.com/Kuurkuma/SQL_Video-rental_Rockbsuter/blob/2c8ca00b3fdca3246c3951a4523d44ff76504462/ERD_Rockbuster_%20database.png
+
 ## Analysis
 
 ### Geographical

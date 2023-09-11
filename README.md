@@ -29,6 +29,8 @@ Let's focus on customers & revenues from a geographical point of view by answeri
 
 <img width="1642" alt="image" src="https://github.com/Kuurkuma/SQL_Video-rental_Rockbsuter/assets/135337076/bf09e3a9-b11f-41a4-adfb-561822caf198">
 
+[LINK to Tableau Dashboard](https://public.tableau.com/app/profile/teddy.bernays/viz/Rockbuster_16926436031340/REVENUECUSTOMER?publish=yes)
+
 ### Query (using JOINS)
 ```
 -- Revenue & Customer count per country
@@ -43,7 +45,10 @@ GROUP BY cl.country
 ORDER BY total_revenue DESC
 ;
 ```
+----
+
+Check the report here:
+https://github.com/Kuurkuma/SQL_Video-rental_Rockbsuter/blob/f7bc531198d5845c3fccbbfc54af976e8991a9f1/2023.08.21._Manager%20Presentation%20-%20Rockbuster.pdf
 
 
 
-[LINK to Tableau Dashboard](https://public.tableau.com/app/profile/teddy.bernays/viz/Rockbuster_16926436031340/REVENUECUSTOMER?publish=yes)
